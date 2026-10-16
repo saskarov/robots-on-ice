@@ -1,0 +1,8 @@
+{
+  "return_mean": -169788.01999902222,
+  "return_std": 80833.37110254573,
+  "dist_cost": 154614.1977801306,
+  "energy_cost": 15173.82221889156,
+  "time_to_reach_s": 13.1206,
+  "frac_reached": 0.768
+}
